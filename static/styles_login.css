@@ -1,0 +1,22 @@
+body{
+    background-image: url(/static/images/login.png);
+}
+
+
+.input-box{
+    background-color: rgba(139, 16, 16, 0.288);
+    height: 120px;
+    text-align: center;
+    padding-top: 50px;
+    font-style: italic;
+    margin-top: 80px;
+    
+
+}
+
+.login {
+    width: 100px;
+    background-color: rgba(42, 15, 197, 0.473);
+    border-radius: 5px;
+    
+}
